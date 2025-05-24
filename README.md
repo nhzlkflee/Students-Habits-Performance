@@ -1,14 +1,18 @@
 # Project: Students-Habits-Performance
 
 ---
-## 📘 Dataset Overview
+## 📘 Description
 
-- This synthetic dataset simulates the academic and lifestyle behaviors of 80,000 students, including diverse features like study habits, mental health, family background, motivation, and environmental factors. The goal is to explore how different variables affect student performance in terms of GPA and exam scores.
+This project explores how students daily habits, routines, and behaviors influence their academic performance.
+
+The dataset sourced from Kaggle, which includes enhanced information about students’ study habits, sleep patterns, screen time, social media usage, and academic results, the goal is to derive meaningful insights and develop predictive models that can forecast academic performance.
+
+The project follows the complete data science lifecycle — from data cleaning and exploratory data analysis to feature engineering and model development — culminating in the deployment of a dashboard or application to support student performance tracking and early risk detection.
+
 ---
-## 🧠 Project Goals
-- Predict exam scores: Use study habits, sleep, and motivation to predict exam_score.
-- Classify dropout risk: Predict dropout_risk (Yes/No) using behavioral and environmental data.
-- Explore correlation: Find key features that most influence academic performance.
+## 🧠 Project Goal
+- This project aims to analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators.
+- 
 ----
 
 ## 📊 **Dataset**  
@@ -36,13 +40,15 @@ The dataset contains the following columns:
 ---
 
 ## 📌 Usage Ideas
-- Regression & classification ML models
+This dataset is often used for:
+
 - Exploratory data analysis
-- Education research
-- Student success prediction
-- Academic risk detection
+- Data Visualization
+- Modeling: Predicting Student Performance
+- 
 ---
-## 📊 Interpreting Results
-- RMSE (Root Mean Squared Error): Lower is better. Gives average error size.
-- MAE (Mean Absolute Error): Also lower is better. Easier to interpret directly.
-- R² (R-squared Score): Between 0 and 1. Higher means better fit.
+## 📊 Expected Learning Outcomes
+- Analytical insights (Descriptive outcome)
+- Clean and Well-Structured Dataset (Preprocessed Output)
+- Predictive Model (Machine Learning Outcome)
+
