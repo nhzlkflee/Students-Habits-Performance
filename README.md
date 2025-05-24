@@ -10,7 +10,7 @@ The dataset sourced from Kaggle, which includes enhanced information about stude
 
 ---
 
-## 🧠 Project Goal
+## 🧠 Project Goals
 This project aims to analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators.
   
 ----
