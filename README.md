@@ -2,7 +2,7 @@
 
 ---
 
-## 📘 Description
+### 📘 Description
 
 This project explores how students daily habits, routines, and behaviors influence their academic performance.
 
@@ -10,12 +10,12 @@ The dataset sourced from Kaggle, which includes enhanced information about stude
 
 ---
 
-## 🧠 Project Goals
+### 🧠 Project Goals
 This project aims to analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators.
   
 ----
 
-## 📊 **Dataset**  
+### 📊 **Dataset**  
 The dataset contains the following columns:  
 | Column Name      | Description                              |  
 |-------------------|------------------------------------------|  
@@ -39,7 +39,7 @@ The dataset contains the following columns:
 
 ---
 
-## 📌 Usage Ideas
+### 📌 Usage Ideas
 This dataset is often used for:
 
 - Exploratory data analysis
@@ -47,7 +47,7 @@ This dataset is often used for:
 - Modeling: Predicting Student Performance
 
 ---
-## 📊 Expected Learning Outcomes
+### 📊 Expected Learning Outcomes
 - Analytical insights (Descriptive outcome)
 - Clean and Well-Structured Dataset (Preprocessed Output)
 - Predictive Model (Machine Learning Outcome)
