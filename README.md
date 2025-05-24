@@ -1,17 +1,17 @@
 # Project: Students-Habits-Performance
 
 ---
+
 ## 📘 Description
 
-### This project explores how students daily habits, routines, and behaviors influence their academic performance.
+This project explores how students daily habits, routines, and behaviors influence their academic performance.
 
-### The dataset sourced from Kaggle, which includes enhanced information about students’ study habits, sleep patterns, screen time, social media usage, and academic results, the goal is to derive meaningful insights and develop predictive models that can forecast academic performance.
-
-### The project follows the complete data science lifecycle — from data cleaning and exploratory data analysis to feature engineering and model development — culminating in the deployment of a dashboard or application to support student performance tracking and early risk detection.
+The dataset sourced from Kaggle, which includes enhanced information about students’ study habits, sleep patterns, screen time, social media usage, and academic results, the goal is to derive meaningful insights and develop predictive models that can forecast academic performance.
 
 ---
+
 ## 🧠 Project Goal
-### This project aims to analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators.
+This project aims to analyze how student habits influence academic performance and to build a model that predicts student grades using behavioral and lifestyle indicators.
   
 ----
 
@@ -45,7 +45,7 @@ This dataset is often used for:
 - Exploratory data analysis
 - Data Visualization
 - Modeling: Predicting Student Performance
-- 
+
 ---
 ## 📊 Expected Learning Outcomes
 - Analytical insights (Descriptive outcome)
